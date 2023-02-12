@@ -19,6 +19,7 @@ s = ttk.Style()
 s.theme_use('clam')
 s.configure("green.Horizontal.TProgressbar", foreground='grey', background='#62f1b4')
 
+# defining variables
 file_path = ""
 folder_path = ""
 
